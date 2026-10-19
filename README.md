@@ -17,3 +17,4 @@ Roller - 2
 
 <img width="1153" height="770" alt="Screenshot 2026-10-18 184029" src="https://github.com/user-attachments/assets/cef45a7c-0f3e-49a4-a112-3301079ffd5b" />
 
+<img width="558" height="396" alt="Screenshot 2026-10-18 190034" src="https://github.com/user-attachments/assets/2af8c1f6-db2f-4f46-8c54-5cec547b62d0" />
