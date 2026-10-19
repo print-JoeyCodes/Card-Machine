@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 2 | Tier 1 | 6.21h | 4 |
+| Week 2 | Tier 1 | 7.21h | 4 |
 
 ## Contents
 
@@ -43,7 +43,7 @@ Worked on the main frame for the card shuffler. Designed the holder and body. Th
 
 ### 2026-10-18 – I spent time researching parts to buy for the non 3d printed pieces. I settled on N20 Dc motors, and a driver to control them.
 
-**1h**
+**2h**
 
 I spent time researching parts to buy for the non 3d printed pieces. I settled on N20 Dc motors, and a driver to control them.
 
