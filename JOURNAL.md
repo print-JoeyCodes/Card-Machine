@@ -6,7 +6,7 @@
 > [!NOTE]
 > This devlog is mirrored from [Half Life](https://halflife.hackclub.com) ([open the project](https://halflife.hackclub.com/projects/cmv57eqmh0h2o01n07dvhhfvd)). Editing it here will not change the platform's copy, and the next sync overwrites this file.
 
-> A custom robot that can shuffle playing cards.
+> A custom 3d printed card shuffler machine that takes a full deck of cards in the top and uses motors and wheels to randomly sort them into 2 piles on the side.
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
